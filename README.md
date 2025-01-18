@@ -3,6 +3,7 @@ Code release for "[Boosting Multimodal Large Language Models with Visual Tokens
 Withdrawal for Rapid Inference](https://arxiv.org/abs/2405.05803)" 
 
 ## News
+- **2025.01.18**: 🔥 VTW has been selected for oral presentation at AAAI'25!
 - **2024.12.10**: 🔥 VTW has been accepted to AAAI'25!
   
 ## Experiments Environment
